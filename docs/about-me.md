@@ -32,8 +32,8 @@ aside: false
 
 ## 联系方式
 <center>
-<img src="./public/logo.png" width="100" height="100" alt="个人微信">
-<div>个人微信</div>
+<img src="./public/wechat.jpg" width="150" height="300" alt="个人微信">
+<div style="margin-top:10px;font-size:smaller">个人微信</div>
 </center>
 
 最后，我是阿奇，很高兴认识你。
