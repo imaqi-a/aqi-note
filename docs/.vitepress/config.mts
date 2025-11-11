@@ -11,7 +11,7 @@ export default defineConfig({
   ],
   // #endregion fav
 
-  base: '/aqi-note/', //网站部署到github的vitepress这个仓库里
+  base: '/', // 使用自定义域名时设置为 '/'；如果使用 GitHub Pages 默认域名，改为 '/aqi-note/'
 
   // cleanUrls:true, //开启纯净链接无html
 
