@@ -1,5 +1,10 @@
-# 阿奇
 ---
+sidebar: false
+aside: false
+---
+
+# 阿奇
+
 **独立开发者/全栈工程师**
 
 **GitHub**: [github.com/imaqi-a/](https://github.com/imaqi-a/aqi-note)
@@ -31,7 +36,6 @@
 <div>个人微信</div>
 </center>
 
----
 最后，我是阿奇，很高兴认识你。
 
 > *最后更新: 2025年11月*

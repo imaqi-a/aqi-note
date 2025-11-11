@@ -87,6 +87,7 @@ export default defineConfig({
         text: 'python学习笔记',
         items: [
           { text: '基础语法和输入输出', link: '/python-notes/stage1' },
+          { text: '最终结果', link: '/python-notes/final-stage' },
         ],
       },
     ],
@@ -94,7 +95,8 @@ export default defineConfig({
 
     //侧边栏
     sidebar: [
-      { text: 'python学习笔记', link: '/python-notes' },
+      { text: '基础语法和输入输出', link: '/python-notes/stage1' },
+      { text: '最终结果', link: '/python-notes/final-stage' },
     ],
 
 

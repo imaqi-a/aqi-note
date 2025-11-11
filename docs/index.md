@@ -13,7 +13,7 @@ hero:
   actions:
     - theme: brand
       text: 学python
-      link: /python-notes
+      link: /python-notes/stage1.html
     - theme: alt
       text: GitHub
       link: https://github.com/imaqi-a
@@ -27,7 +27,7 @@ features:
       dark: /python.png
     title: 学 Python
     details: 300 行代码实现一个个人记账簿。
-    link: /python-notes
+    link: /python-notes/stage1.html
     linkText: "Link"
 
   - icon: 📝
