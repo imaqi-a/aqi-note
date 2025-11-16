@@ -83,6 +83,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '🍉自我介绍', link: '/about-me' },
+      { text: '💬从Hello World聊起', link: '/from-hello-world' },
       {
         text: 'python学习笔记',
         items: [

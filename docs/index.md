@@ -33,6 +33,8 @@ features:
   - icon: 📝
     title: 阿奇的碎碎念
     details: 一些关于生活、关于编程、关于未来的思考。
+    link: /from-hello-world
+    linkText: "Link"
 ---
 
 <HomeUnderline />

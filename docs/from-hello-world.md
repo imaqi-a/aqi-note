@@ -1,3 +1,8 @@
+---
+sidebar: false
+aside: false
+---
+
 # 从Hello World聊起
 
 毕业之后决定转行成为程序员，写下了第一行`print("Hello world.")`。这成为我了迈入这一行的第一步，而`print`也是这些年来使用最多的函数了，可这一行代码背后是什么呢？
