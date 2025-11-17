@@ -15,8 +15,8 @@ hero:
       text: 学python
       link: /python-notes/stage1.html
     - theme: alt
-      text: GitHub
-      link: https://github.com/imaqi-a
+      text: 编程杂谈
+      link: /miscellaneous-talk/from-hello-world.html
     - theme: sponsor
       text: 关于我
       link: /about-me
@@ -32,9 +32,7 @@ features:
 
   - icon: 📝
     title: 阿奇的碎碎念
-    details: 一些关于生活、关于编程、关于未来的思考。
-    link: /from-hello-world
-    linkText: "Link"
+    details: 一些关于生活、关于编程、关于未来的思考（建设中）。
 ---
 
 <HomeUnderline />

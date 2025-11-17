@@ -83,7 +83,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '🍉自我介绍', link: '/about-me' },
-      { text: '💬从Hello World聊起', link: '/from-hello-world' },
+      { text: '💬编程杂谈', link: '/miscellaneous-talk/from-hello-world' },
       {
         text: 'python学习笔记',
         items: [
@@ -95,10 +95,23 @@ export default defineConfig({
 
 
     //侧边栏
-    sidebar: [
-      { text: '基础语法和输入输出', link: '/python-notes/stage1' },
-      { text: '最终结果', link: '/python-notes/final-stage' },
-    ],
+    sidebar: {
+      '/miscellaneous-talk/': [
+        {
+          text: '编程杂谈',
+          items: [
+            { text: '从Hello World聊起', link: '/miscellaneous-talk/from-hello-world' },
+            { text: '函数是什么', link: '/miscellaneous-talk/what-is-func' },
+          ]
+        }
+      ],
+      '/python-notes/': [{
+        text: 'python学习笔记', items: [
+          { text: '基础语法和输入输出', link: '/python-notes/stage1' },
+          { text: '最终结果', link: '/python-notes/final-stage' },
+        ]
+      }],
+    },
 
 
 
