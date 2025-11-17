@@ -88,6 +88,10 @@ export default defineConfig({
         text: 'python学习笔记',
         items: [
           { text: '基础语法和输入输出', link: '/python-notes/stage1' },
+          { text: '列表、for循环、while循环', link: '/python-notes/stage2' },
+          { text: '函数定义、字典、模块化编程', link: '/python-notes/stage3' },
+          { text: '文件读写、异常处理', link: '/python-notes/stage4' },
+          { text: '使用matplotlib进行数据可视化', link: '/python-notes/stage5' },
           { text: '最终结果', link: '/python-notes/final-stage' },
         ],
       },
@@ -108,6 +112,10 @@ export default defineConfig({
       '/python-notes/': [{
         text: 'python学习笔记', items: [
           { text: '基础语法和输入输出', link: '/python-notes/stage1' },
+          { text: '列表、for循环、while循环', link: '/python-notes/stage2' },
+          { text: '函数定义、字典、模块化编程', link: '/python-notes/stage3' },
+          { text: '文件读写、异常处理', link: '/python-notes/stage4' },
+          { text: '使用matplotlib进行数据可视化', link: '/python-notes/stage5' },
           { text: '最终结果', link: '/python-notes/final-stage' },
         ]
       }],
